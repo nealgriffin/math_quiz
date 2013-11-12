@@ -45,8 +45,8 @@ $(document).ready(function() {
 			};
 			_nextQuestion();
 		};
-		var secT = 10;
-		var minT = 0;
+		var secT = 60;
+		var minT = 2;
 		
 		function countDownTimer() {
 			secT--;
